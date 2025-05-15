@@ -76,6 +76,8 @@
   --sidebar-ring: oklch(0.704 0.04 256.788);
   --background: oklch(1 0 0);
   --foreground: oklch(0.129 0.042 264.695);
+  --chart-1: 12 76% 61%;
+  --chart-2: 173 58% 39%;
 }
 
 .dark {
@@ -110,6 +112,8 @@
   --sidebar-accent-foreground: oklch(0.984 0.003 247.858);
   --sidebar-border: oklch(1 0 0 / 10%);
   --sidebar-ring: oklch(0.551 0.027 264.364);
+  --chart-1: 220 70% 50%;
+  --chart-2: 160 60% 45%;
 }
 
 @layer base {
